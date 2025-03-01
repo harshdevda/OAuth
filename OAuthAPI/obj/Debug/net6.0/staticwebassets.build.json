@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KFgLw5qOiNM2I/JWsEniD6PDU4OMjMcaw3/F6EzQI3Q=",
+  "Source": "OAuthAPI",
+  "BasePath": "_content/OAuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
